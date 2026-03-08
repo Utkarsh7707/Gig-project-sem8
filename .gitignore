@@ -19,3 +19,9 @@ logs
 .vscode/
 .idea/
 .DS_Store
+
+# environment variables
+.env
+.env.*
+backend/.env
+frontend/.env
